@@ -1,2 +1,5 @@
 # ekonom_lib
-Cross-Platform Library to send packet to payments terminal using ECR2.
+Cross-Platform library for communication with payment terminals using ECR-based protocols.
+
+### Author's note
+Just an idea which has dissapeared as fast as it was thought of. I should finish it... someday.
